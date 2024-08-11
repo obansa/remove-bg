@@ -8,5 +8,4 @@ router.register(r'image-upload', views.ImageUploadViewSet, basename='image-uploa
 
 urlpatterns = [
     path('api/', include(router.urls)),
-    # path('register/', views.RemoverViewSet.as_view({'get': 'list'}), name='register'),
 ]
