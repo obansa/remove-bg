@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+pillow
+uvicorn
+aiofiles
+python-multipart
+scikit-image
+gdown
+Django
+whitenoise
+djangorestframework
+django-cors-headers
